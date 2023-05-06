@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_DBURL": "mongodb+srv://sunshuo:990716@pingpong.oomjugh.mongodb.net/pingpong?retryWrites=true&w=majority"
+    }
+}
